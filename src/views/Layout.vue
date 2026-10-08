@@ -23,7 +23,7 @@
       <div class="col-3" style="margin: auto; text-align: center">
         <img
           src="../assets/Image_SamiulBari.png"
-          style="border-radius: 50%; width: 70%"
+          style="border-radius: 0; width: 70%"
         />
       </div>
       <div class="col" style="margin: auto">
@@ -104,7 +104,7 @@
               margin-top: 50px;
               margin-left: auto;
               margin-right: auto;
-              border-radius: 50%;
+              border-radius: 0;
               width: 70%;
             "
           />
